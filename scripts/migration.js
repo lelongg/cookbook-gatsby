@@ -1,4 +1,4 @@
-const GITHUB_USER = "JulienUsson";
+const GITHUB_USER = "lelongg";
 const GITHUB_REPOSITORY = "cookbook";
 
 const https = require("https");
