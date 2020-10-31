@@ -1,5 +1,5 @@
 ---
 templateKey: index-page
-title: Les recettes de Maud
+title: C'est pô du flan
 image: /img/hero.jpg
 ---
