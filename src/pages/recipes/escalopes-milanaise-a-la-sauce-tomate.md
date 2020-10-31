@@ -14,7 +14,7 @@ ingredients:
 - 2 gousses d'ail
 - 1 oignon
 - 2 œufs
-- Herbes (ex : Origan, Romarin, Thym...)
+- "Herbes (ex : Origan, Romarin, Thym...)"
 - Farine
 - Chapelure
 - Paprika
