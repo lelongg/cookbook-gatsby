@@ -42,6 +42,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
+    "@babel/preset-env": "^7.12.1",
+    "@babel/compat-data": "^7.9.0",
     "@types/node": "^13.11.1",
     "@types/react": "^16.9.34",
     "@types/react-dom": "^16.9.6",
