@@ -13,6 +13,8 @@ ingredients:
 - 1/2 sachet de levure déshydratée boulangère
 - 13 g de sel
 - Une pincée de sucre
+
+tags: []
 ---
 1. Préchauffer le four à 200°C avec un récipient rempli d'eau (type lêche-frites).
 2. Délayez la levure dans un peu d'eau des 300 g prévus pour la pâte, avec la pincée de sucre. Laisser le mélange 15 minutes afin que celui-ci soit bien bulleux. 
