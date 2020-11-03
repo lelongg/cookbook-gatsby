@@ -13,7 +13,7 @@ ingredients:
   - sel
   - poivre
 tags:
-  - soupe
+  - végétarien soupe
 ---
 1. Préchauffer le four à 200°C.
 
