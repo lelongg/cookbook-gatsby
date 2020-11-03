@@ -15,7 +15,8 @@ ingredients:
   - sel
   - poivre
 tags:
-  - végétarien tarte
+  - végétarien
+  - tarte
 ---
 1. Péchauffer le four à 200°C.
 2. Couper et faire revenir les légumes dans une poêle avec du sel et du poivre. Pendant ce temps, faire la pâte à tarte ou en utiliser une toute prête et la placer dans le plat à tarte.
