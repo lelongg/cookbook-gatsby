@@ -15,6 +15,8 @@ ingredients:
   - piment d'Espelette
   - sel
   - poivre
+tags:
+  - tarte
 ---
 1. Préchauffer le four à 200°C.
 2. Laver les poireaux. Les couper avec l'oignon et les faire cuire. Pendant ce temps, faire l'appareil. Pour cela, battre les œufs dans un bol avec la crème fraîche, du piment, du sel et du poivre.
