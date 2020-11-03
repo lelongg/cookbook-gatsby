@@ -3,7 +3,7 @@ templateKey: recipe-post
 title: Manchons de poulet
 image: /static/img/manchon3.jpg
 duration: 30 minutes
-servings: 3
+servings: 4
 ingredients:
   - 500g d'ailes de poulet
   - herbes de Provence
