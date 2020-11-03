@@ -11,6 +11,8 @@ ingredients:
   - un petit paquet de gruyère
   - sel
   - poivre
+tags:
+  - végétarien
 ---
 1.Préchauffer le four à 200°C.
 
