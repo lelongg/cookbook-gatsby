@@ -12,6 +12,8 @@ ingredients:
   - ail en poudre
   - sel
   - poivre
+tags:
+  - soupe
 ---
 1. Préchauffer le four à 200°C.
 
