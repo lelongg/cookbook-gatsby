@@ -14,6 +14,7 @@ ingredients:
   - poivre
 tags:
   - poisson
+  - végétarien
 ---
 1. Faire revenir le calamar dans une poêle jusqu'à coloration. Ajouter la sauce tomate, l'ail écrasé, le laurier, le thym, le sel et le poivre.
 
