@@ -10,6 +10,8 @@ ingredients:
   - 200g d'eau
   - 100g d'anko (pâte de haricots rouge sucrée)
   - 20g de maïzena
+tags:
+  - dessert
 ---
 1.  Dans un saladier allant au micro onde, versez la farine de riz gluant, l sucre glace et l'eau. Mélangez le tout afin d'obtenir une pâte lisse, puis, placez le au micro onde durant 4m30 à 600 watts.
 
