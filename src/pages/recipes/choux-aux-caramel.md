@@ -3,7 +3,7 @@ templateKey: recipe-post
 title: Choux aux caramel
 image: /static/img/choux-caramel.jpg
 duration: 45 minutes
-servings: 3
+servings: 4
 ingredients:
   - 5cl de lait
   - 7cl d'eau
