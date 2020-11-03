@@ -12,6 +12,8 @@ ingredients:
   - 1 œuf+ 1 blanc
   - 34g de beurre
   - 150g de chocolat
+tags:
+  - dessert
 ---
 1. Préchauffer le four à 200°C.
 
