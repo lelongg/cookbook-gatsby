@@ -3,7 +3,7 @@ templateKey: recipe-post
 title: Muffins chocolat
 image: /static/img/mufins-tout-choco.jpeg
 duration: 30 minutes
-servings: 2
+servings: 4
 ingredients:
   - 80g de farine
   - 20g de sucre
