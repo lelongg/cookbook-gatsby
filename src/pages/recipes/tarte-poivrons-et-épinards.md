@@ -15,12 +15,7 @@ ingredients:
   - sel
   - poivre
 ---
-
-
-1. Réchauffer le four à 200°C.
-
+1. Péchauffer le four à 200°C.
 2. Couper et faire revenir les légumes dans une poêle avec du sel et du poivre. Pendant ce temps, faire la pâte à tarte ou en utiliser une toute prête et la placer dans le plat à tarte.
-
 3. Dans un bol, mélanger les œufs, la crème, du sel, du poivre. 
-
 4. Une fois les légumes cuits, les égoutter 2 minutes dans une passoire (cela évite que la pâte ne soit trop molle après cuisson). Les placer ensuite dans le fond de la tarte. Venir verser le mélange d'œufs par dessus, ajouter le gruyère. Placer la tarte au four durant 15 à 20 minutes. Ajouter un peu de salade dans l'assiette pour l'accompagnement !
