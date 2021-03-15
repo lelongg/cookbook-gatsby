@@ -1,6 +1,6 @@
 ---
 templateKey: recipe-post
-title: Sablé parmesan chorizo
+title: Sables parmesan chorizo
 image: /static/img/sablés-parmesan-chorizo.jpg
 duration: 60 minutes
 servings: 4
