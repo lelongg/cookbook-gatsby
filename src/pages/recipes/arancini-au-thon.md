@@ -14,6 +14,9 @@ ingredients:
   - du piment en poudre
   - du sel
   - du poivre
+tags:
+  - végétarien
+  - poisson
 ---
 1. Cuire le riz à risotto dans du bouillon de légumes (ou autre). Puis égoutter le, le laisser refroidir.
 2. Dans un saladier, mettre la ricotta, le riz froid, le thon, le piment, le sel et le poivre. Bien mélanger. Et former des boulettes.
