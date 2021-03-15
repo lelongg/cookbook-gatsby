@@ -12,6 +12,8 @@ ingredients:
   - persil
   - sel
   - poivre
+tags:
+  - végétarien
 ---
 1. Préchauffer le four à 180°C.
 2. Éplucher les pommes de terre et les couper en fines lamelles.
