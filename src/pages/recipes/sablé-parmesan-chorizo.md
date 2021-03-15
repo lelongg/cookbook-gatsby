@@ -14,6 +14,7 @@ ingredients:
   - poivre
 tags:
   - apéritif
+  - viande
 ---
 1. Préchauffer le four à 180°C.
 2. Mélanger tous les ingrédients dans un saladier afin de former une pâte. Faire un boudin et le placer au frai 1h. Puis le couper en tranches.
