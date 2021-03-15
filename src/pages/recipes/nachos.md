@@ -11,6 +11,7 @@ ingredients:
   - épices au choix (paprika piment curcuma...)
 tags:
   - apéritif
+  - végétarien
 ---
 1. Préchauffer le four à 180°C.
 2. Dans un saladier, mélanger tous les ingrédients jusqu'à ce que les épices soient bien intégrées dans la pâte.
