@@ -13,7 +13,7 @@ ingredients:
   - sel
   - poivre
 tags:
-  - Apéritif
+  - apéritif
 ---
 1. Couper le filet de saumon en fines lamelles. Attention à retirer la peau du poisson avant !
 2. Dans un saladier, couper la ciboulette en petits morceaux puis, mélanger les ingédients. Ajouter le saumon et mélanger. Filmer le tout et placer le au frai. Le sortir et le placer dans une assiette au moment de l'apétitif avec des cures dents. Un régal.
