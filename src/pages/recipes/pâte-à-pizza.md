@@ -9,7 +9,7 @@ ingredients:
   - 5càs d'huile d'olive
   - 3 sachets de levure boulangère
   - 5càc de sel
-  - 500g d'eau environ
+  - 50g d'eau environ
 tags:
   - tarte
 ---
